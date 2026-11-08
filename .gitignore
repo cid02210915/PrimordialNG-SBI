@@ -1,0 +1,6 @@
+/src/ksz_sbi/theory.py
+
+__pycache__/
+*.pyc
+events.out.tfevents.*
+notebooks/sbi-logs/
